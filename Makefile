@@ -2,7 +2,7 @@
 # GLOBALS                                                                       #
 #################################################################################
 
-PROJECT_NAME = bimba_2
+PROJECT_NAME = titanic
 PYTHON_VERSION = 3.11
 PYTHON_INTERPRETER = python
 

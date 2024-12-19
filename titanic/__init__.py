@@ -1,1 +1,1 @@
-from bimba_2 import config  # noqa: F401
+from titanic import config  # noqa: F401
